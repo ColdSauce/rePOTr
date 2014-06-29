@@ -1,0 +1,13 @@
+-Light Colors-
+#FFCC0C
+#E8A30B
+#FF9601
+#E86D0B
+#FF540C
+
+-Dark Colors-
+#C9A109
+#D4950A
+#BD6F01
+#D4630A
+#C94209
